@@ -536,4 +536,3 @@ button_front = Button (frame_chat , image = exitt , relief = "flat" , bg = c3 , 
 #-----------------------------------------------------------------------------------------------------------
 
 root.mainloop ()
-"""    END OF CODE   """
