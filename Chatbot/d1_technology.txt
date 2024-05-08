@@ -1,0 +1,71 @@
+whatisinternetofthings?
+It is the network of devices, vehicles, and home appliances that contain electronics, software, actuators, and connectivity which allows these things to connect, interact and exchange data.
+internetofthings
+It is the network of devices, vehicles, and home appliances that contain electronics, software, actuators, and connectivity which allows these things to connect, interact and exchange data.
+whatisbioinformatics?
+It is interdisciplinary field that develops methods and software tools for understanding biological data.
+bioinformatics
+It is interdisciplinary field that develops methods and software tools for understanding biological data.
+whatiscybersecurity?
+It is the protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide.
+cybersecurity
+It is the protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide.
+whatisvirtualreality?
+The Computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment.
+virtualreality 
+The Computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment.
+whatisbitcoin?
+It is the cryptocurrency, a form of electronic cash. It is a decentralised digital currency without a central bank that can be sent from user-to-user on the peer-to-peer bitcoin network without the need of intermediaries.
+bitcoin
+It is the cryptocurrency, a form of electronic cash. It is a decentralised digital currency without a central bank that can be sent from user-to-user on the peer-to-peer bitcoin network without the need of intermediaries.
+whatisassistedtransportation?
+It is advanced application which, without embodying intelligence as such, aims to provide innovative services relating to different modes of transport and traffic management and enables users to be better informed and make safer, more coordinated, and 'smarter' use of transport networks.
+assistedtransportation
+It is advanced application which, without embodying intelligence as such, aims to provide innovative services relating to different modes of transport and traffic management and enables users to be better informed and make safer, more coordinated, and 'smarter' use of transport networks.
+whatisrobotics?
+It is the design and use of robots to perform tasks done traditionally by humans.
+robotics
+It is the design and use of robots to perform tasks done traditionally by humans.
+whatissmartcities?
+It use data and technology to create efficiencies, improve sustainability, create economic development, and enhance quality of life factors for people living and working in the city.
+smartcities
+It use data and technology to create efficiencies, improve sustainability, create economic development, and enhance quality of life factors for people living and working in the city.
+whatisdatascience?
+It is interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowlegde and insights from data in various forms, both structured and unstructured.
+datascience
+It is interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowlegde and insights from data in various forms, both structured and unstructured.
+whatis5gtechnology?
+It is the Fifth Generation of cellular mobile communication. It targets high data rate, reduced latency, higher system capacity, and massive device connectivity.
+5gtechnology 
+It is the Fifth Generation of cellular mobile communication. It targets high data rate, reduced latency, higher system capacity, and massive device connectivity.
+whatisvirtualassistant?
+It is Software Agent that can perform tasks or services for an individual.
+virtualassistant
+It is Software Agent that can perform tasks or services for an individual.
+whatisaugmentedreality?
+A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
+augmentedreality
+A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
+whatishighperformancecomputing?
+High Performance Computing(HPC) is the use of supercomputers and parallel processing techniques for solving complex computational problems.
+highperformancecomputing 
+High Performance Computing(HPC) is the use of supercomputers and parallel processing techniques for solving complex computational problems.
+whatiscomputerassistededucation?
+The use of Computers to aid or support education or training of people.
+computerassistededucation
+The use of Computers to aid or support education or training of people.
+whatisquantumcomputing?
+It is computing using quantum-mechanical phenomena, such as superposition and entanglement.
+quantumcomputing
+It is computing using quantum-mechanical phenomena, such as superposition and entanglement.
+Machine learning
+Machine learning meanings teaching the machine.
+what is technology
+
+hii
+
+hello
+hi
+hello
+what is internet of things
+

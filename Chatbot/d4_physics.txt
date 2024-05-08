@@ -1,0 +1,46 @@
+charge
+C(Coulombs)
+current
+A(Ampere)
+time
+s(Seconds)
+length
+m(metre)
+mass
+kg(kilogram)
+temperature
+K(kelvin)
+voltage
+V(Volts)
+power
+W(Watts)
+energy
+J(Joule)
+frequency
+Hz(Hertz)
+force
+N(Newton)
+pressure
+Pa(Pascal)
+capacitance
+F(Farad)
+resistance
+Ohm
+conductance
+S(Siemens)
+magneticflux
+Wb(Weber)
+inductance
+H(Henry)
+speed
+m/s(metre per second)
+velocity
+m/s(metre per second)
+amountofsubstance
+mol(Mole)
+luminousintensity
+cd(Candela)
+intensity of light
+cd(Candela)
+impedence
+Ohms

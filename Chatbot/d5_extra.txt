@@ -1,0 +1,16 @@
+hii
+hello!!
+how can you help me?
+I am a chatbot which can answer (pre defined) your queries related to your topics.
+what is today's date?
+Today is 9 February 2020
+what is today day?
+Sunday
+today is any special day?
+Yes, today is Annual Function of my boss (Rahul Singh) School.
+remind me that my keys are on the table?
+Yes,Sir
+will I had said you to remind anything?
+Yes, Your keys are on the table.
+thank You jarvis
+Your most welcome.

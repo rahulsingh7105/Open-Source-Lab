@@ -1,0 +1,28 @@
+keyboard
+A keyboard is an input device that contains keys users press to enter data and instructions into a computer. 
+mouse
+It is a pointing device as it allows a user to control a pointer on the screen.
+touchpad
+It is a small, flat pointing device that is sensitive to pressure and motion.
+pointingstick
+It is a pressure-sensitive pointing device shaped like a pencil eraser that is positioned between keys on a keyboard.
+touchscreen
+It is a touch-sensitive display device.
+trackball
+It is a stationery pointing device with a ball on its top or side.
+stylus
+It is a small metal or plastic device that looks like a tiny ink pen but uses pressure instead of ink.
+graphicstablet
+It is flat, rectangular, electronic plastic board.
+barcodereader
+It is an optical reader that uses laser beams to read bar codes.
+scanner
+It is a light-sensing input device that reads printed text and graphics and then translates the results into a form the computer can process.
+webcam
+It is a type of digital video camera that enables user to capture video and still images. 
+monitor
+It is an output device that visually conveys text, graphics and video information.
+printers
+It is an output device that produces text and graphics on a physical medium.
+projectors
+It is a device that takes the text and images displaying on a computer screen and projects them on a larger screen so that audience can see the image clearly.

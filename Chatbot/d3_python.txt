@@ -1,0 +1,22 @@
+What is Python?
+Python is a programming language with objects, modules, threads, exceptions and automatic memory management.
+What are the benefits of using Python?
+The benefits of pythons are that it is simple and easy, portable, extensible, build-in data structure and it is an open source.
+How Python is interpreted?
+Python language is an interpreted language. Python program runs directly from the source code. It converts the source code that is written by the programmer into an intermediate language, which is again translated into machine language that has to be executed.
+What are the tools that help to find bugs or perform static analysis?
+PyChecker is a static analysis tool that detects the bugs in Python source code and warns about the style and complexity of the bug. Pylint is another tool that verifies whether the module meets the coding standard.
+What is the difference between list and tuple?
+The difference between list and tuple is that list is mutable while tuple is not. Tuple can be hashed for e.g as a key for dictionaries.
+How can you copy an object in Python?
+To copy an object in Python, you can try copy.copy () or copy.deepcopy() for the general case. You cannot copy all objects but most of them.
+What is module and package in Python?
+In Python, module is the way to structure program. Each Python program file is a module, which imports other modules like objects and attributes. The folder of Python program is a package of modules. A package can have modules or subfolders.
+
+
+
+
+
+
+
+
